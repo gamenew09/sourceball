@@ -1,0 +1,5 @@
+@include "hl2mp.fgd"
+
+@PointClass base(prop_physics) studio("models/props_c17/oildrum001_explosive.mdl")= sb_glow_barrel :  "Training room barrel."
+[
+]
